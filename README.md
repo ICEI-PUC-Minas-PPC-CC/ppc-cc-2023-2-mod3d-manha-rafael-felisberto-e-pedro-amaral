@@ -6,7 +6,7 @@
 
 ## Integrantes
 
-- Rafael Felisberto 
+- Rafael de Souza Felisberto 
 - Pedro Henrique Franco Moreira Amaral
 
 ## Professor
