@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Escultura Blender
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Modelagem3D`
@@ -22,6 +22,7 @@
 
   <h3>Referências</h3>
   https://www.youtube.com/watch?v=EZxDA8nEHuA
+  
   https://youtu.be/4lGf1XSFFJY
 
 # Código
