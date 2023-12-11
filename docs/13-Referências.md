@@ -1,6 +1,7 @@
 # Referências
 
-(https://www.youtube.com/watch?v=4lGf1XSFFJY)
+https://www.youtube.com/watch?v=4lGf1XSFFJY
+https://www.youtube.com/watch?v=EZxDA8nEHuA
 
 > **Links Úteis**:
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
